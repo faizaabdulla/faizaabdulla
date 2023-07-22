@@ -2,7 +2,7 @@
 - 👀 I’m interested in python full-stack development
 - 🌱 I’m currently learning python django
 - 💞️ I’m looking to collaborate on python projects, especially on django
-- 📫 How to reach me via email
+- 📫 How to reach me via e-mail
 
 <!---
 faizaabdulla/faizaabdulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
